@@ -1,4 +1,4 @@
-![Descripción de la imagen](/src/Ecommerce.png)
+![Descripción de la imagen](/src/img/Screen.bmp)
 
 
 # 🐕🦴🐶🐕 Visitas Veterinarias  🐕🦴🐶🐕
@@ -62,4 +62,5 @@ No se utilizó Context. Todas las propiedades se pasan de padre a hijo a través
 
 - Agregar pacientes con nombre, dueño y síntomas
 - Validación de todos los campos.
-- Permite editar, y eliminar las citas ya guardadas. 
+- Permite editar, y eliminar las citas ya guardadas.
+- Se uso la metodología Mobile First para estilar. El diseño es totalmente responsive. 
