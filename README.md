@@ -1,6 +1,3 @@
-![Descripción de la imagen](/src/img/Screen.bmp)
-
-
 # 🐕🦴🐶🐕 Visitas Veterinarias  🐕🦴🐶🐕
 
 
@@ -48,11 +45,7 @@ No se utilizó Context. Todas las propiedades se pasan de padre a hijo a través
 
 
 ## Screenshots 📷
-![screenshot](https://i.ibb.co/VpCLm1D/1.png)
-![screenshot](https://i.ibb.co/LdMLLJF/2.png)
-![screenshot](https://i.ibb.co/PhwtDm4/3.png)
-![screenshot](https://i.ibb.co/k4FZjKC/4.png)
-![screenshot](https://i.ibb.co/s502xGx/5.png)
+(![Descripción de la imagen](/src/img/Screen.bmp))
 
 ## Deploy del proyecto ™️
 
