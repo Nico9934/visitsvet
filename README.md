@@ -45,7 +45,7 @@ No se utilizó Context. Todas las propiedades se pasan de padre a hijo a través
 
 
 ## Screenshots 📷
-(![Descripción de la imagen](/src/img/Screen.bmp))
+![Descripción de la imagen](/src/img/Screen.bmp)
 
 ## Deploy del proyecto ™️
 
